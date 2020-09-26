@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+The purpose of this analysis is to inform
 ### Purpose
 
 ## Analysis and Challenges
