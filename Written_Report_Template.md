@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes vs Goals Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png?raw=true)
+![Theater Outcomes vs Launch Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
