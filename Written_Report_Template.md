@@ -8,7 +8,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes vs Goals Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png?raw=true)
+
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes vs Goals Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
