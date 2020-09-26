@@ -3,9 +3,9 @@
 ## Overview of Project
 An analysis of Kickstarter campaigns from 2009 to 2017. 
 ### Purpose
-The purpose of this analysis is to help a young playwrite, Louise, create a successful Kickstarter campaign for her upcoming play *Fever*.
+The purpose of this analysis is to help a young playwright, Louise, create a successful Kickstarter campaign for her upcoming play *Fever*. Based on her 
 ## Analysis and Challenges
-Louise has an estimated budget of $10,000. 
+
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater Outcomes vs Launch Date Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
