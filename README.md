@@ -8,11 +8,11 @@ The purpose of this analysis is to inform
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes vs Launch Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png?raw=true)
+![Theater Outcomes vs Launch Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes vs Goals Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png?raw=true)
+![Outcomes vs Goals Chart](https://github.com/BiscuitButter/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
