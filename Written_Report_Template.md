@@ -10,6 +10,8 @@
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes vs Goals Chart](/kickstarter-analysis/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
