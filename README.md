@@ -21,16 +21,18 @@ As an experienced Excel user, I felt comfortable with the work in this Module. I
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  1.  The optimal time to have a fundraiser is around the month of May. 
-  2.  The chances for success decrease considerable during the colder months.
+  1. The optimal time to have a fundraiser is around the month of May. 
+  2. The chances for success decrease considerable during the colder months.
 
 - What can you conclude about the Outcomes based on Goals?
-Generally speaking, lower goals have greater success. There is an anomaly between $35k - $45k where the success rate is about 66%. However, the chart doesn’t reveal how many campaigns make up that data point. If there are only three campaigns contributing to that data point, then the results cannot be considered reliable.
+
+  Generally speaking, lower goals have greater success. There is an anomaly between $35k - $45k where the success rate is about 66%. However, the chart doesn’t reveal how many campaigns make up that data point. If there are only three campaigns contributing to that data point, then the results cannot be considered reliable.
 
 - What are some limitations of this dataset?
-Results are likely to vary based on geographical location. Also, Theater Outcomes Based on Launch Date includes all Kickstarters in the Theater category, whereas Analysis of Outcomes Based on Goals focuses strictly on the Plays subcategory.
+
+  Results are likely to vary based on geographical location. Also, Theater Outcomes Based on Launch Date includes all Kickstarters in the Theater category, whereas Analysis of Outcomes Based on Goals focuses strictly on the Plays subcategory. This may create a slight inconsistency in the results.
 
 - What are some other possible tables and/or graphs that we could create?
-  1.  Outcomes of Launch Dates by Country
-  2.  Outcomes of Goals by Country
-  3.  Campaign Duration
+  1. Outcomes of Launch Dates by Country
+  2. Outcomes of Goals by Country
+  3. Campaign Duration
